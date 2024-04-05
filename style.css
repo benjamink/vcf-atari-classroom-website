@@ -1,0 +1,17 @@
+table {
+  border: #000099;
+  border-style: solid;
+  border-width: 2px;
+  font-family: monospace;
+  font-size: 12px;
+}
+
+table > thead {
+  background-color: #aaaaaa;
+}
+
+tr > td {
+  border-right: #666666;
+  border-right-style: dotted;
+  border-right-width: 1px;
+}
