@@ -1,3 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+hr {
+  border-style: dashed;
+}
+
+p.small-note {
+  font-size: 12px;
+  color: #666666;
+}
 table {
   border: #000099;
   border-style: solid;
