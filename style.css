@@ -20,7 +20,7 @@ table {
   width: 60%;
 }
 
-button {
+.fnControl button {
   font-size: 24px;
   height: auto;
   width: 200px;
