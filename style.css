@@ -20,7 +20,13 @@ table {
   width: 60%;
 }
 
-.fnControl button {
+button {
+  font-size: 14px;
+  height: auto;
+  width: auto;
+}
+
+#fnControl button {
   font-size: 24px;
   height: auto;
   width: 200px;
